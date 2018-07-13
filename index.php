@@ -1,4 +1,4 @@
-$GithubRawURI= "https://raw.githubusercontent.com/UserName/GitName/FileName.php”;
+$GithubRawURI= "https://raw.githubusercontent.com/dokyasde/dokyasde.github.io/master/index.php”;
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, $GithubRawURI);
 curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
